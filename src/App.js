@@ -1,3 +1,10 @@
+/*
+pagina di prova:
+
+  "Hello GitHub!"
+
+*/
+
 import React from 'react';
 import { BrowserRouter, NavLink, Switch, Route } from 'react-router-dom'
 
@@ -6,7 +13,7 @@ import Chrono from './pages/Chrono.js';
 import ToDoList from './pages/ToDoList.js';
 
 import './App.css';
-import logo from './logo.png'; // with import
+import logo from './logo.png';
 
 const routes = [
   {
